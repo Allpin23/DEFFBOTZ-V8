@@ -7,39 +7,39 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
-global.footer = "Deffbotz ~ Deff"
-global.fake = "Deffbotz ~ Deff"
-global.namebot = "DEFFBOTZ - DEFF"
-global.packname = "Buatan Siapa? Buatan Daffa\nMau nomor nya? 089501060783\nOrangnya ganteng dan baik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-global.packname2 = "BY Daffa ~ Yudhistira"
-global.author = "Daffa"
-global.email = "dyudhistira51@gmail.com"
-global.game = "Deffbotz Game"
-global.nameown = "©DEFF"
-global.resultwibu = "Nih kak Resultnya, Dasar Wibu"
-global.nameyt = "DEFFBOTZZ"
-global.instagram = "https://instagram.com/deff.xyz"
+global.owner = ['6289648311511']
+global.footer = "AlphinBotz"
+global.fake = "AlphinBotz"
+global.namebot = "AlphinBotz"
+global.packname = "Buatan Siapa? Buatan Alphin\nMau nomor nya? 089648311511\nOrangnya ganteng dan baik\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+global.packname2 = "PemilikBot: 089648311511"
+global.author = "Alfnabdillah"
+global.email = "https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh"
+global.game = "AlphinGame"
+global.nameown = "PemilikBot 089648311511"
+global.resultwibu = "Nih kak Resultnya, Dasar Wibu kntl"
+global.nameyt = "GratisanManiaTv"
+global.instagram = "https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh"
 global.sessionName = "session"
-global.github = "https://github.com/DEFF-Y"
+global.github = "https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh"
 global.done = "Done :)"
-global.linkgrupss = "https://chat.whatsapp.com/C0y1iHxWw9n8odBcK3Rs5z"
+global.linkgrupss = "https://chat.whatsapp.com/Dse5mkgbOetEX7a0Rvofjh"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    linkm: 'Linknya Mana Kak?',
-    ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
+    success: 'Success donasi saldo dana: 089648311511',
+    admin: 'Fitur Khusus Admin Group!donasi saldo dana: 089648311511',
+    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!donasi saldo dana: 089648311511',
+    owner: 'Fitur Khusus Owner Botdonasi saldo dana: 089648311511',
+    group: 'Fitur Digunakan Hanya Untuk Group!donasi saldo dana: 089648311511',
+    private: 'Fitur Digunakan Hanya Untuk Private Chat!donasi saldo dana: 089648311511',
+    bot: 'Fitur Khusus Pengguna Nomor Botdonasi saldo dana: 089648311511',
+    wait: 'Loading...donasi saldo dana: 089648311511',
+    linkm: 'Linknya Mana Kak?donasi saldo dana: 089648311511',
+    ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat ownerdonasi saldo dana: 089648311511'
 }
 global.BerryAwal = 5000
-global.limitAwal= 20
+global.limitAwal= 10
 global.gamewaktu = 50
 global.waktu = 60000
 
